@@ -37,11 +37,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "cloud9",
-                "path": "/clc15-network/cloud9"
-            }
-        ]
+        "@folders": []
     }
 }
